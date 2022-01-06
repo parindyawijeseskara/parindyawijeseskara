@@ -1,3 +1,4 @@
+[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Danushi Parindya</h1>
 <h3 align="center">A passionate Full-Stack developer from SriLanka.</h3>
 
